@@ -1,0 +1,10 @@
+D:\Led_RING\SetLeds_DLL\SetLeds_DLL\bin\Debug\SetLeds_DLL.dll
+D:\Led_RING\SetLeds_DLL\SetLeds_DLL\bin\Debug\SetLeds_DLL.pdb
+D:\Led_RING\SetLeds_DLL\SetLeds_DLL\bin\Debug\SetLeds_DLL.xml
+D:\Led_RING\SetLeds_DLL\SetLeds_DLL\obj\Debug\SetLeds_DLL.Resources.resources
+D:\Led_RING\SetLeds_DLL\SetLeds_DLL\obj\Debug\SetLeds_DLL.vbproj.GenerateResource.Cache
+D:\Led_RING\SetLeds_DLL\SetLeds_DLL\obj\Debug\SetLeds_DLL.vbproj.CoreCompileInputs.cache
+D:\Led_RING\SetLeds_DLL\SetLeds_DLL\obj\Debug\SetLeds_DLL.dll
+D:\Led_RING\SetLeds_DLL\SetLeds_DLL\obj\Debug\SetLeds_DLL.xml
+D:\Led_RING\SetLeds_DLL\SetLeds_DLL\obj\Debug\SetLeds_DLL.pdb
+D:\Led_RING\SetLeds_DLL\SetLeds_DLL\obj\Debug\SetLeds_DLL.vbprojResolveAssemblyReference.cache
